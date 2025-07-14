@@ -28,12 +28,15 @@ To analyze freight transportation data to uncover inefficiencies, identify envir
 • Combine yearly datasets into one final dataset for analysis.
 • Reviewed the dataset documentation to understand column definitions and codes.
 • Performed exploratory data analysis to Conducted initial exploratory analysis to:
-	•	Check number of rows and columns
-	•	Understand data types
-	•	Identify missing or duplicate values
+•	Check number of rows and columns
+•	Understand data types
+•	Identify missing or duplicate values
 
 # Step 3 - Data Preparation
-• 
+• Loaded the dataset into Power BI.
+•	Renamed ambiguous column headers  for better clarity.
+•	Replaced coded values using the provided data dictionary.
+•	Created new features.
 
 # Step 4 - Analysis
 

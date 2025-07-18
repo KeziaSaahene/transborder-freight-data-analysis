@@ -13,14 +13,14 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 To analyze freight transportation data to uncover inefficiencies, identify environmental impacts, and suggest ways to improve logistics performance.
 
 # Business questions; 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+1.Which transportation modes are the least cost-efficient?
+2.Is U.S. export freight more cost-efficient than import freight?
+3.Which U.S. states contribute the most to total freight weight and trade value?
+4.Does containerization improve cost efficiency?
+5.Are some ports handling low value cargo but incurring high costs?
+6.What proportion of the total trade value is moved by each transportation mode?
+7.Are there months where freight transportation is unusually expensive?
+8.Is domestic trade more cost efficient?
 
 # Step 2 - Data Understanding 
 • Loaded the dataset from the Bureau of Transportation Statistics.
@@ -36,7 +36,8 @@ To analyze freight transportation data to uncover inefficiencies, identify envir
 • Loaded the dataset into Power BI.
 •	Renamed ambiguous column headers  for better clarity.
 •	Replaced coded values using the provided data dictionary.
-•	Created new features.
+•	Created new features: Cost per Kg and Value per Kg 
+
 
 # Step 4 - Analysis
 

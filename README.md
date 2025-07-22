@@ -36,7 +36,7 @@ To analyze freight transportation data to uncover inefficiencies, identify envir
 • Loaded the dataset into Power BI.
 •	Renamed ambiguous column headers  for better clarity.
 •	Replaced coded values using the provided data dictionary.
-•	Created new features: Cost per Kg and Value per Kg 
+•	Created new metrics: Cost per Kg and Value per Kg 
 
 
 # Step 4 - Analysis

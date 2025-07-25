@@ -13,21 +13,21 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 To analyze freight transportation data to uncover inefficiencies, identify environmental impacts, and suggest ways to improve logistics performance.
 
 # Business questions; 
-1.Which transportation modes are the least cost-efficient?
-2.Is U.S. export freight more cost-efficient than import freight?
-3.Which U.S. states contribute the most to total freight weight and trade value?
-4.Does containerization improve cost efficiency?
-5.Are some ports handling low value cargo but incurring high costs?
-6.What proportion of the total trade value is moved by each transportation mode?
-7.Are there months where freight transportation is unusually expensive?
-8.Is domestic trade more cost efficient?
+1.What is the total trade value and freight cost for the selected country (Canada/Mexico)?
+2.What is the average cost and value per kilogram of traded goods?
+3.How has the trade value changed over time (2020–2024)?
+4.What is the distribution of containerized vs non-containerized goods?
+5.What proportion of trade is domestic vs foreign
+6.How does trade value differ between imports and exports?
+7.Which transportation modes are the most and least cost-efficient (in terms of cost per kg)?
+8.How does trade value compare between Canada and Mexico, across imports and exports?
 
 # Step 2 - Data Understanding 
 • Loaded the dataset from the Bureau of Transportation Statistics.
 • Combined Excel files per month, then merged all monthly files into one dataset per year.
 • Combine yearly datasets into one final dataset for analysis.
 • Reviewed the dataset documentation to understand column definitions and codes.
-• Performed exploratory data analysis to Conducted initial exploratory analysis to:
+• Performed exploratory data analysis to:
 •	Check number of rows and columns
 •	Understand data types
 •	Identify missing or duplicate values

@@ -56,3 +56,6 @@ Insights were interpreted to support strategic decision-making, including:
 Interactive dashboard built in Power BI, exported as PDF for offline sharing
 - Presentation slide deck created to summarize business questions, methodology, and final insights
 - All code, datasets, and documentation uploaded to GitHub
+
+
+Link to PowerPoint document: https://drive.google.com/file/d/1JKF2TyIjGZoy-nIUcGLAKfN53yMpB9d_/view?usp=drivesdk

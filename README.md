@@ -40,7 +40,19 @@ To analyze freight transportation data to uncover inefficiencies, identify envir
 
 
 # Step 4 - Analysis
+Visualizations were developed in Power BI to answer the business questions using:
+- Bar charts for comparison of import/export values across countries
+- Line charts showing time trends (2020–2024)
+- Pie charts for containerization and domestic vs. foreign trade proportions
+- Calculated measures for cost/value efficiency
 
 # Step 5 - Evaluation 
+Insights were interpreted to support strategic decision-making, including:
+- Identification of the most cost-efficient transport modes
+- Analysis of trade value growth trends
+- Understanding of import/export balance with Canada an
 
 # Step 6 - Deployment 
+Interactive dashboard built in Power BI, exported as PDF for offline sharing
+- Presentation slide deck created to summarize business questions, methodology, and final insights
+- All code, datasets, and documentation uploaded to GitHub

@@ -15,35 +15,23 @@ To analyze freight transportation data to uncover inefficiencies, identify envir
 # Business questions; 
 Trade Value & Freight Charges
 	1.	What is the total trade value and total freight cost for the selected country (Canada or Mexico)?
-	2.	How have total trade value and freight charges changed compared to the previous year (YoY % change)?
+	2.	How has the trade value changed over time (2020–2024)?
 	3.	What is the average cost per kilogram and average value per kilogram of traded goods?
 	4.	Which U.S. states have the highest and lowest total trade values?
 	5.	Which U.S. states have the highest and lowest total freight charges?
 	6.	Which U.S. states have the highest and lowest trade counts?
 
-Trade Over Time
-	7.	How has the trade value changed over time (2020–2024)?
-	8.	Which years had the peak and lowest trade values?
-
 Trade Type & Structure
-	9.	What is the distribution of containerized vs. non-containerized goods?
-	10.	What proportion of trade is domestic vs. foreign?
-	11.	How does trade value differ between imports and exports?
-	12.	How does trade value compare between Canada and Mexico, across imports and exports?
-
+	7.	What is the distribution of containerized vs. non-containerized goods?
+	8.	What proportion of trade is domestic vs. foreign?
+	9.	How does trade value differ between imports and exports?
+	
 Transportation Mode Efficiency
-	13.	Which transportation modes are the most and least cost-efficient in terms of cost per kilogram?
-	14.	What is the cost per kilogram for each transportation mode by trade type (import/export)?
-
-Geographical Insights
-	15.	What is the trade value by U.S. state?
-	16.	Which states contribute the most to imports vs. exports?
+	10.	Which transportation modes are the most and least cost-efficient in terms of cost per kilogram?
 
 Commodity Insights
-	17.	What is the total trade value by commodity group?
-	18.	Which commodity groups contribute the most and least to total trade value?
-	19.	What is the trade value for high-value commodities like Machinery & Electronics, Minerals & Chemicals, and Transport Equipment?
-
+	11.	Which commodity groups contribute the most and least to total trade value?
+	
 
 # Step 2 - Data Understanding 
 • Loaded the dataset from the Bureau of Transportation Statistics.
